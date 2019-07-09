@@ -16,4 +16,4 @@ def any_phrase(character)
   
 end
 
-any_phrase(link())
+any_phrase(link
